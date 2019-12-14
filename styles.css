@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: #1e313f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    padding: 0;
+    width: 242px;
+}
+
+.body{fill:#DEC29B;}
+.nose{fill:#382B27;}
+.right-eye,.left-eye{fill:#372B25;}
+.right-iris,.left-iris{fill:#F6D795;}
+.right-outer-ear,.left-outer-ear{fill:#DDC19B;}
+.right-inner-ear,.left-inner-ear{fill:#ECDCC5;}
+.tongue{fill:#FF4848;}
+.top-fang-right,.top-fang-left,.top-tooth1,.top-tooth2,.top-tooth3,.top-tooth4,.bottom-fang-right,.bottom-fang-left,.bottom-tooth1,.bottom-tooth2,.bottom-tooth3,.bottom-tooth4{fill:#FFFFE1;}
+.left-whisker-top,.left-whisker-middle,.left-whisker-bottom,.right-whisker-top,.right-whisker-middle,.right-whisker-bottom{fill:none;stroke:#000000;stroke-width:0.7815;stroke-miterlimit:10;}
+.left-freckle-top,.left-freckle-middle,.left-freckle-bottom,.right-freckle-top,.right-freckle-middle,.right-freckle-bottom{stroke:#000000;stroke-width:0.7815;stroke-miterlimit:9.9999;}
